@@ -1,8 +1,8 @@
 ## Sobre
 Este repositório documenta meu eprendizado sobre Docker e container  
-**Autor:** Wesley
-**Curso** Segurança Cibernética
-**Disciplina** Banco de dados
+**Autor:** Wesley  
+**Curso** Segurança Cibernética  
+**Disciplina** Banco de dados  
 **Data** 25/06  
 
 ## O que estou aprendendo ?
@@ -25,3 +25,5 @@ Este repositório documenta meu eprendizado sobre Docker e container
 - [ ] Tarefa 3 - Banco de dados
 - [ ] Tarefa 4 - Docker Compose
 - [ ] Tarefa 5 - Aplicação completa
+
+Data de conclusão:{ ]
