@@ -1,18 +1,18 @@
 ## Sobre
-Este repositório documenta meu eprendizado sobre Docker e container
-
+Este repositório documenta meu eprendizado sobre Docker e container  
 **Autor:** Wesley
 **Curso** Segurança Cibernética
 **Disciplina** Banco de dados
-**Data** 25/06
+**Data** 25/06  
 
 ## O que estou aprendendo ?
+
 - Conceitos fundamentais do docker
 - Como criar e gerenciar containers
 - Trabalhar com imagens docker
 - Configurar bancos de dados em containers
 - Usar Docker Compose para aplicações multi-container
-
+- 
 ## Estrutura do projeto
 - `containers/` - Dockerfiles e configurações de containers
 - `compose/` - Arquivos docker-compose.yml
