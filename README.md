@@ -6,7 +6,7 @@ Este repositório documenta meu eprendizado sobre Docker e container
 **Disciplina** Banco de dados
 **Data** 25/06
 
-## O que estou aprendendo?
+## O que estou aprendendo ?
 - Conceitos fundamentais do docker
 - Como criar e gerenciar containers
 - Trabalhar com imagens docker
