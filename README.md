@@ -12,7 +12,7 @@ Este repositório documenta meu eprendizado sobre Docker e container
 - Trabalhar com imagens docker
 - Configurar bancos de dados em containers
 - Usar Docker Compose para aplicações multi-container
-- 
+
 ## Estrutura do projeto
 - `containers/` - Dockerfiles e configurações de containers
 - `compose/` - Arquivos docker-compose.yml
